@@ -43,10 +43,10 @@
 
 # logical operator eg. and,or,not
 
-# print(10>20  and 100<50) # False and False 
-# print(10>20  and 10<50 ) # False and True
-# print(100>20 and 100<50) # True and False
-# print(100>20 and 10<50 ) # True and True
+print(10>20  and 100<50) # False and False 
+print(10>20  and 10<50 ) # False and True
+print(100>20 and 100<50) # True and False
+print(100>20 and 10<50 ) # True and True
 
 # print("10>20  or 100<50 :",10>20  or 100<50) # False and False 
 # print("10>20  or 10<50 :",10>20  or 10<50 ) # False and True

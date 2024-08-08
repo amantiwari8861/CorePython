@@ -78,4 +78,3 @@ and make fibonnaci series from them till n(the length of that number) term.
 13. check whether a no. is palindrome or not 
     i.e 12321 -> after reverse -> 12321
 14.Write a C program to print all the perfect numbers from 1 to 1000 eg. 28 => 1+2+4+7+14 =28
-

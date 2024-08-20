@@ -50,4 +50,3 @@ print(" %-20s %-7s %7s %7s %7s %7s"%stu1)
 print(" %-20s %-7s %7s %7s %7s %7s"%stu2)
 print(" %-20s %-7s %7s %7s %7s %7s"%stu3)
 print(" %-20s %-7s %7s %7s %7s %7s"%stu4)
-

@@ -34,7 +34,7 @@
 # print(greet()) # None
 
 # no argument with return type
-def getPiValue():
+def getPiValue(): 
     return 3.14
 
 # res=getPiValue()
@@ -44,31 +44,32 @@ def getPiValue():
 
 
 # with argument no return type
-# def VolumeOfSphere(r):
-#     print("volume is :",4/3*getPiValue()*r**3)
+def VolumeOfSphere(r):
+    print("volume is :",4/3*getPiValue()*r**3)
 
 
 # r=float(input("enter radius:"))
 # VolumeOfSphere(r)
 
 
-def powerFxn(base,power):
-    result=1
-    for i in range(power):
-        result*=base
-    return result
+# def powerFxn(base,power):
+#     result=1
+#     for i in range(power):
+#         result*=base
+#     return result
 
-res=powerFxn(3,4)
-print("3^4 is ",res)
+# res=powerFxn(3,4)
+# print("3^4 is ",res)
 
-b=float(input("enter base:"))
-p=int(input("enter power:"))
-res=powerFxn(b,p)
-print(b,"^",p," is ",res)
-
-
-# cylinder 
+# b=float(input("enter base:"))
+# p=int(input("enter power:"))
+# res=powerFxn(b,p)
+# print(b,"^",p," is ",res)
 
 
+# def greetPerson(name="Aman"):
+#     print("Good Morning",name,"Sir!")
 
-
+# greetPerson()
+# greetPerson("Tarang")
+# greetPerson(input("enter name:"))
